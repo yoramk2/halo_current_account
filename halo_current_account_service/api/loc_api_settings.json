@@ -1,0 +1,6 @@
+{
+    "Recaptcha": {
+        "url": "https://www.google.com/recaptcha/api/siteverify",
+        "type": "api"
+    }
+}

@@ -1,0 +1,6 @@
+# Included because many Paas's require a requirements.txt file in the project root
+# Just installs the production requirements.
+-r requirements/dev.txt
+-r requirements/prod.txt
+C:\dev\projects\halo\test140\genpy-1.2.tar.gz
+halo-bian==0.11.18
